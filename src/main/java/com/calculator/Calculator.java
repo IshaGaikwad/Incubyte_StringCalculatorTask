@@ -4,9 +4,6 @@ package com.calculator;
  *
  * @author ishag
  */
-import java.util.ArrayList;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class Calculator {
 
